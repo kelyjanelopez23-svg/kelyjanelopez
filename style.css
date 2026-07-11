@@ -25,10 +25,6 @@ main {
     padding: 20px;
 }
 
-h1 {
-    color: #222;
-}
-
 .profile {
     width: 150px;
     border-radius: 50%;
@@ -45,5 +41,4 @@ footer {
     background-color: #333;
     color: white;
     padding: 10px;
-    margin-top: 20px;
 }
